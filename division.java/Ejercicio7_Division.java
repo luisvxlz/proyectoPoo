@@ -33,7 +33,7 @@ public class Ejercicio7_Division {
         Division miDivision = new Division();
 
         // Caso 1: división normal, sí funciona
-        int resultado1 = miDivision.dividir(10, 2);
+        int resultado1 =miDivision.dividir(20, 4);
         System.out.println("10 / 2 = " + resultado1);
 
         // Caso 2: división entre cero, se debe mostrar el mensaje de error
