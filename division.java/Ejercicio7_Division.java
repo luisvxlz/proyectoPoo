@@ -1,4 +1,4 @@
-/*
+//vamos a mejorar la division*
  * EJERCICIO 7
  * Crea una clase Division con un método que reciba dos números enteros
  * y realice la división. Maneja la excepción ArithmeticException en caso
